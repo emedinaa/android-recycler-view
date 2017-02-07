@@ -8,6 +8,6 @@ Working with RecyclerView
 
 ## Multiple View Type
 
-## Pull to Refresh and EndScrolling
+## Pull to Refresh and Endless Scrolling
 
 ## References

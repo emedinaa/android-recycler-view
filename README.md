@@ -1,12 +1,12 @@
 # android-recycler-view
-Working with RecyclerView
+Trabajando con RecyclerView
 
-## Fundamentals
+## Fundamentos
 
-## Listeners
+## Eventos 
 
-## Multiple View Type
+## Tipos de vista múltiple
 
-## Pull to Refresh and EndScrolling
+## Pull to Refresh y Endless Scrolling
 
-## References
+## Referencias
